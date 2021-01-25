@@ -1,0 +1,17 @@
+.cuadro{
+	background-color:#953619;
+	position:absolute;
+	left:0%;
+	height:12%;
+	width:100%;
+	top:0%;
+}
+.titulo{
+	font-size:210%;
+	font-family:Century Gothic;
+	margin-top:0.8%;
+	margin-left:42%;
+}
+.fondo{
+	background-color:#121421;
+}

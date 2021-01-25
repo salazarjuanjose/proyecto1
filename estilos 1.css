@@ -1,0 +1,151 @@
+
+
+.cuadro{
+	background-color:#953619;
+	position:absolute;
+	left:0%;
+	height:12%;
+	width:100%;
+	top:0%;
+	opacity:100%;
+	transition-duration:2s;
+
+}
+.cuadro:hover{
+	background-color:#134C4A;
+	position:absolute;
+	left:0%;
+	height:12%;
+	width:100%;
+	top:0%;
+	opacity:80%;
+	transition-duration:2s;
+
+}
+.titulo{
+	font-size:210%;
+	font-family:Century Gothic;
+	margin-top:0.8%;
+	margin-left:30%;
+
+}
+.primero{
+	background-color:#600707;
+	position:absolute;
+	left:0%;
+	top:12%;
+	height:43.5%;
+	width:49.5%;
+	opacity:100%;
+	transition-duration:2s;
+	
+}
+
+.primero:hover{
+	background-color:#600707;
+	position:absolute;
+	left:0%;
+	top:12%;
+	height:43.5%;
+	width:49.5%;
+	opacity:80%;
+	transition-duration:2s;
+	color:black;
+}
+.p1{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:15%;
+	margin-left:33%;
+}
+.segundo{
+	background-color:#751A1A;
+	position:absolute;
+	left:49.5%;
+	top:12%;
+	height:43.5%;
+	width:50.5%;
+	opacity:100%;
+	transition-duration:2s;
+
+
+}
+.segundo:hover{
+	background-color:#751A1A;
+	position:absolute;
+	left:49.5%;
+	top:12%;
+	height:43.5%;
+	width:50.5%;
+	opacity:80%;
+	transition-duration:2s;
+	color:black;
+}
+.p2{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:15%;
+	margin-left:40%;
+}
+.tercero{
+	background-color:#183610;
+	position:absolute;
+	left:0%;
+	top:55.5%;
+	height:45%;
+	width:49.5%;
+	opacity:100%;
+	transition-duration:2s;
+}
+.tercero:hover{
+	background-color:#183610;
+	position:absolute;
+	left:0%;
+	top:55.5%;
+	height:45%;
+	width:49.5%;
+	opacity:80%;
+	transition-duration:2s;
+	color:black;
+
+}
+
+.p3{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:17%;
+	margin-left:33%;
+}
+.cuarto{
+	background-color:#06121C;
+	position:absolute;
+	left:49.5%;
+	top:55.5%;
+	height:44.9%;
+	width:50.5%;
+	opacity:100%;
+	transition-duration:2s;
+}
+.cuarto:hover{
+	background-color:#06121C;
+	position:absolute;
+	left:49.5%;
+	top:55.5%;
+	height:44.9%;
+	width:50.5%;
+	opacity:80%;
+	transition-duration:2s;
+	color:black;
+
+
+}
+.p4{
+	font-size:250%;
+	font-family:Century Gothic;
+	margin-top:17%;
+	margin-left:40%;
+}
+.primerr{
+	
+	color:black;
+}
