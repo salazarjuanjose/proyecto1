@@ -1,0 +1,474 @@
+.cuaa
+{
+	position:absolute;
+	background-color:transparent;
+	height:30%;
+	width:100%;
+	left:0%;
+	top: 130%;
+}
+
+
+.ggk
+{
+	position:absolute;
+	background-color:red;
+	height:30%;
+	width:100%;
+	left:0%;
+	top: 80%;
+}
+
+
+.videooo
+{
+	position:absolute;
+	background-color:red;
+	height:20%;
+	top:600%;
+	left:30%;
+	width:40%;
+
+}
+.ff
+{
+    position:absolute;
+	height:400px;
+	top:1700px;
+	left:0px;
+	width:1150px;
+}
+.pp
+{
+	position:absolute;
+	height:700px;
+	top:1000px;
+	left:0%;
+	width:1150px;
+
+}
+
+
+
+
+
+.fondo{
+
+	background-color:#7E1C1C;
+	position:absolute;
+	height:30%;
+	width:40%;
+	left:30%;
+	top:0%;
+
+}
+.titulo{
+	font-size:180%;
+	font-family: Goudy Old Style;
+	margin-left:8%;
+	margin-top:2%;
+}
+.cuadro{
+	position:absolute;
+	background-color:#134C4A;
+	left:30%;
+	height:100%;
+	top: 0%;
+	width:40%;
+}
+.fonfoo{
+	background-color:#1D490E;
+
+}
+.p11{
+	font-size:200%;
+	font-family:Goudy Old Style;
+	margin-left:7%;
+	margin-top:6%;
+	color:black;
+}
+.p1{
+	
+	background-color:#134C4A;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:30%;
+	transition-duration:1s;
+	opacity:100%;
+	color:black;
+	
+}
+.p1:hover{
+	
+	background-color:#134C4A;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:30%;
+	transition-duration:1s;
+	opacity:40%;
+	color:black;
+	
+}
+
+.p22{
+	font-size:200%;
+	font-family: Goudy Old Style;
+	margin-left:7%;
+	margin-top:6%;
+	color:black;
+}
+
+.p2{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:51%;
+	transition-duration:1s;
+	opacity:100%;
+}
+.p2:hover{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:51%;
+	transition-duration:1s;
+	opacity:40%;
+}
+
+.p33{
+	font-size:200%;
+	font-family:Goudy Old Style;
+	margin-left:7%;
+	margin-top:6%;
+	color:black;
+}
+.p3{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:71%;
+	transition-duration:1s;
+	opacity:100%;
+
+}
+.p3:hover{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:71%;
+	transition-duration:1s;
+	opacity:40%;
+
+}
+
+.p44{
+	font-size:200%;
+	font-family:Goudy Old Style;
+	margin-left:7%;
+	margin-top:6%;
+	color:black;
+}
+.p4{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:91%;
+	transition-duration:1s;
+	opacity:100%;
+}
+.p4:hover{
+	background-color:transparent;
+	position:absolute;
+	height:9%;
+	width:15%;
+	left:42.5%;
+	top:91%;
+	transition-duration:1s;
+	opacity:40%;
+
+}
+.cuadroo{
+	position:absolute;
+	background-color:#134C4A;
+	left:-80%;
+	height:70%;
+	top: -5%;
+	width:253.5%;
+}
+.tituloo{
+	font-size:400%;
+	font-family:Goudy Old Style;
+	margin-left:36%;
+	margin-top:2.5%;
+}
+.volver{
+	font-size:150%;
+	font-family:Goudy Old Style;
+	color:black;
+	left:400%;
+}
+.ok{
+	position:absolute;
+	background-color:transparent;
+	height:10%; 
+	top:80%;
+	width:10%;
+	left:2%;
+
+}
+.texto1{
+	position:absolute;
+	background-color:transparent;
+	height:100%;
+	top:70%;
+	left:-10%;
+	width:100%;
+}
+.img1{
+	background-color:red;
+	position:absolute;
+	height:100%;
+	top:1000%;
+	left:67%;
+	width:60%;
+
+
+}
+#vector{
+	background-color:white;
+	position:absolute;
+	height:100%;
+	left: -30%;
+	width:100%;
+	top:200%;
+
+}
+.vector{
+
+	left:5%;
+	font-family:Goudy Old Style;
+	font-size:200%;
+	position:absolute;
+	top:35%;
+	color:black;
+
+}
+#variables{
+	background-color:white;
+	position:absolute;
+	height:100%;
+	left: -30%;
+	width:100%;
+	top:350%;
+
+}
+.variables{
+	left:30%;
+	font-family:Goudy Old Style;
+	font-size:200%;
+	position:absolute;
+	top:35%;
+	color:black;
+
+}
+#funciones{
+	background-color:white;
+	position:absolute;
+	height:100%;
+	left: -30%;
+	width:100%;
+	top:500%;
+
+}
+.funciones{
+	left:65%;
+	font-family:Goudy Old Style;
+	font-size:200%;
+	position:absolute;
+	top:35%;
+	color:black;
+
+}
+.vani{
+	position:absolute;
+	background-color:transparent;
+	top:600%;
+	width:20%;
+	left: 23%;
+	height:35%;
+
+}
+.vectorr{
+	font-family: Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:-10%;
+}
+.variabless{
+	font-family: Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:-13%;
+}
+.funcioness{
+	font-family:Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:-13%;
+}
+.capo{
+	background-color:#74532F;
+	position:absolute;
+	top: 170%;
+	height:500%;
+	left:-40%;
+	width:230%; 
+}
+.foto{
+	position:absolute;
+	left:53%;
+	height:54%;
+	width:45%;
+	top:6%;
+}
+.ter{
+	position:absolute;
+	left:53%;
+	width:45%;
+	top:63%;
+	height: 36%;
+}
+.reco1{
+	position:absolute;
+	top:120%;
+	left:-16%;
+	width:80%;
+	height:60%;
+
+
+}
+.reco2{
+	position:absolute;
+	top:180%;
+	left:-16%;
+	width:80%;
+	height:60%;
+
+
+}
+.reco3{
+	position:absolute;
+	top:240%;
+	left:-16%;
+	width:80%;
+	height:60%;
+
+
+}
+.reco4{
+	position:absolute;
+	top:300%;
+	left:-16%;
+	width:80%;
+	height:20%;
+
+
+}
+.actaa{
+	position:absolute;
+	background-color:transparent;
+	height:13%;
+	top:103%; 
+	left:-15%;
+	width:100%;
+}
+.actar{
+	font-family:Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:-13%;
+	margin-top:2%;
+}
+.word{
+	position:absolute;
+	background:transparent;
+	height:25%;
+	top:340%;
+	left:-15%;
+	width:65%;
+
+}
+.power{
+	position:absolute;
+	background:transparent;
+	height:25%;
+	top:370%;
+	left:-15%;
+	width:65%;
+
+}
+.ex{
+	position:absolute;
+	background:transparent;
+	height:25%;
+	top:400%;
+	left:-15%;
+	width:65%;
+
+}
+.woo{
+	font-family:Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:2%;
+}
+.poo{
+	font-family:Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:2%;
+}
+.exx{
+	font-family:Goudy Old Style;
+	position:absolute;
+	font-size:140%;
+	top:2%;
+}
+.ppp{
+	position:absolute;
+	height:20%;
+	top:365%;
+	left:60%;
+	width:20%;
+
+}
+.xxx{
+	position:absolute;
+	height:20%;
+	top:400%;
+	left:60%;
+	width:20%;
+
+}
+.www{
+	position:absolute;
+	height:20%;
+	top:335%;
+	left:60%;
+	width:20%;
+
+}
